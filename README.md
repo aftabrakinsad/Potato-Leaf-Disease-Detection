@@ -28,7 +28,7 @@ Research Work: Potato Leaf Disease Detection.
   </tr>
   <tr>
     <th>DOI</th>
-    <td>[https://doi.org/10.1109/ICCIT64611.2024.11021833](https://doi.org/10.1007/978-981-96-4520-6_8)</td>
+    <td>https://doi.org/10.1007/978-981-96-4520-6_8</td>
   </tr>
   <tr>
     <th>Code</th>
